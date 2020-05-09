@@ -80,7 +80,7 @@ const SignIn: React.FC = () => {
         
       }
     },
-    [],
+    [signIn],
   );
 
   return (
